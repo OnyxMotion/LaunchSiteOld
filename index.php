@@ -95,7 +95,7 @@
             <h3>Thanks for hitting us up.</h3>
             <h5> We're building some digital coaches.  If you want a heads up at launch, let us know.</h5>
             <!-- Begin MailChimp Signup Form -->
-<link href="//cdn-images.mailchimp.com/embedcode/slim-081711.css" rel="stylesheet" type="text/css">
+<!-- <link href="//cdn-images.mailchimp.com/embedcode/slim-081711.css" rel="stylesheet" type="text/css"> -->
 <style type="text/css">
   #mc_embed_signup{background:#3a4177; clear:left; font:14px Helvetica,Arial,sans-serif; }
   /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
