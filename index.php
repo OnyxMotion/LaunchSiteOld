@@ -94,15 +94,24 @@
           <div class="col-md-8 col-md-offset-2 text-center">
             <h3>Thanks for hitting us up.</h3>
             <h5> We're building some digital coaches.  If you want a heads up at launch, let us know.</h5>
-            <form action="complete.php" method="post" class="form-inline" role="form">
-				<div class="form-group">
-					<input type="email" name="email" class="form-control" placeholder="allstar@onyxmotion.com">
-				</div>
-				<button type="submit" class="btn btn btn-primary">Sign Up</button>
-          </div>
-        </div>
-      </div>
-    </div>
+            <!-- Begin MailChimp Signup Form -->
+<link href="//cdn-images.mailchimp.com/embedcode/slim-081711.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+  #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+  /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
+     We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+</style>
+<div id="mc_embed_signup">
+<form action="http://onyxmotion.us8.list-manage.com/subscribe/post?u=1f849069c3254cfa3d6ca050a&amp;id=fe937a6f51" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+  
+  <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;"><input type="text" name="b_1f849069c3254cfa3d6ca050a_fe937a6f51" value=""></div>
+  <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="btn btn btn-primary"></div>
+</form>
+</div>
+
+<!--End mc_embed_signup-->
     <!-- /Call to Action -->
     
     <!-- Footer -->
