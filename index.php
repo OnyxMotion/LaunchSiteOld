@@ -26,7 +26,7 @@
       <div class="vert-text">
         <h1>Onyx Motion</h1>
         <h3>Players, meet your coach.</h3>
-        <a href="#services" class="btn btn-default btn-lg"><em>Buy Now</em></a>
+        <a href="#services" class="btn btn-default btn-lg">Buy Now</a>
       </div>
     </div>
     <!-- /Full Page Image Header Area -->
@@ -87,12 +87,12 @@
     <!-- /Services -->
 
     <!-- Call to Action -->
-	<!--
+
     <div class="call-to-action">
       <div class="container">
         <div class="row">
           <div class="col-md-8 col-md-offset-2 text-center">
-            <h3>Enter your email for updates and our Early Supporter offer!</h3>
+            <h3>Thanks for hitting us up.  Enter your email for updates!</h3>
             <form action="complete.php" method="post" class="form-inline" role="form">
 				<div class="form-group">
 					<input type="email" name="email" class="form-control" placeholder="joe.smith@gmail.com">
