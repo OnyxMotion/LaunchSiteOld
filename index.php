@@ -108,9 +108,12 @@
     <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
     <div style="position: absolute; left: -5000px;"><input type="text" name="b_1f849069c3254cfa3d6ca050a_fe937a6f51" value=""></div>
   <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="btn btn btn-primary"></div>
-</form>
-</div>
-</div>
+</form> <!-- end form -->
+</div> <!-- end signup form -->
+</div> <!-- end column -->
+</div> <!-- end row --> 
+</div> <!-- end container -->
+</div> <!-- end call to action -->
 
 <!--End mc_embed_signup-->
     <!-- /Call to Action -->
