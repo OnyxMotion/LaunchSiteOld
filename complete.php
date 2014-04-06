@@ -11,7 +11,7 @@
 	
 	// MYSQL CONNECT
 	// Create intial conneciton
-	$con = mysqli_connect("localhost", "onyxweb", "4Awesome!", "web_main");
+	$con = mysqli_connect("localhost", "root", "onyxmotion2014", "singups");
 	// Check for errors
 	if (mysqli_connect_errno()){
 		echo "Failed to connect to database: " . mysqli_connect_error();

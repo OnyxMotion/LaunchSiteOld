@@ -92,12 +92,13 @@
       <div class="container">
         <div class="row">
           <div class="col-md-8 col-md-offset-2 text-center">
-            <h3>Thanks for hitting us up.  Enter your email for updates!</h3>
+            <h3>Thanks for hitting us up.</h3>
+            <h5> We're building some digital coaches.  If you want a heads up at launch, let us know.</h5>
             <form action="complete.php" method="post" class="form-inline" role="form">
 				<div class="form-group">
-					<input type="email" name="email" class="form-control" placeholder="joe.smith@gmail.com">
+					<input type="email" name="email" class="form-control" placeholder="allstar@onyxmotion.com">
 				</div>
-				<button type="submit" class="btn btn btn-primary">Sign me up!</button>
+				<button type="submit" class="btn btn btn-primary">Sign Up</button>
           </div>
         </div>
       </div>
