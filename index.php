@@ -20,28 +20,39 @@
   <body>
 
 
-  
-    <!-- Full Page Image Header Area -->
-    <div id="top" class="header">
-      <div class="banner" id="backgroundImage" style="background-image: url('/img/basketball.jpg')" width:"100%;">
+
+
+
+<div class="row-fluid header" id="top" padding="0px">
+
+<div class="jumbotron banner" class="img-rounded" style="background-image: url('/img/basketball.jpg')">
+    <div class="container">
+    <div class="jumbotron-caption">
+
+      <!-- Buy Now -->
       <div class="vert-text">
         <h1>Onyx Motion</h1>
         <h3>Players, meet your coach.</h3>
         <a href="#services" class="btn btn-default btn-lg">Buy Now</a>
       </div>
+
     </div>
-    <!-- /Full Page Image Header Area -->
-  
+  </div><!--container-->
+</div><!--jumbotron-->
+</div>
+
+
     <!-- Intro -->
     <div id="about" class="intro">
       <div class="container">
         <div class="row">
           <div class="col-md-6 col-md-offset-3 text-center">
-            <h2>Onyx is a wearable device that can help you perfect your shooting technique</h2>
+            <h2 style="font-color:blue;">Onyx is a wearable device that can help you perfect your shooting technique</h2>
           </div>
         </div>
       </div>
     </div>
+
     <!-- /Intro -->
   
     <!-- Abilities -->
