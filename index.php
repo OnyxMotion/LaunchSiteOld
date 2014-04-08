@@ -21,38 +21,27 @@
 
 
 
-
-
-<div class="row-fluid header" id="top" padding="0px">
-
-<div class="jumbotron banner" class="img-rounded" style="background-image: url('/img/basketball.jpg')">
-    <div class="container">
-    <div class="jumbotron-caption">
-
-      <!-- Buy Now -->
+  
+    <!-- Full Page Image Header Area -->
+    <div id="top" class="header">
       <div class="vert-text">
         <h1>Onyx Motion</h1>
         <h3>Players, meet your coach.</h3>
         <a href="#services" class="btn btn-default btn-lg">Buy Now</a>
       </div>
-
     </div>
-  </div><!--container-->
-</div><!--jumbotron-->
-</div>
-
-
+    <!-- /Full Page Image Header Area -->
+  
     <!-- Intro -->
     <div id="about" class="intro">
       <div class="container">
         <div class="row">
           <div class="col-md-6 col-md-offset-3 text-center">
-            <h2 style="font-color:blue;">Onyx is a wearable device that can help you perfect your shooting technique</h2>
+            <h2>Onyx is a wearable device that can help you perfect your shooting technique</h2>
           </div>
         </div>
       </div>
     </div>
-
     <!-- /Intro -->
   
     <!-- Abilities -->
@@ -183,18 +172,18 @@
       });
     </script>
 
-//     <script>
-//     $(window).resize(function(){
-//     var windowWidth = $(window).width();
-//     var imgSrc = $('#backgroundImage');
-//     if(windowWidth <= 800){         
-//         imgSrc.attr('src','/img/basketball.jpg');
-//     }
-//     else if(windowWidth > 800){
-//         imgSrc.attr('src','/img/golf.jpg');
-//     }
-// });
-//     </script>
+    <script>
+    $(window).resize(function(){
+    var windowWidth = $(window).width();
+    var imgSrc = $('#backgroundImage');
+    if(windowWidth <= 800){         
+        imgSrc.attr('src','basketball.jpg');
+    }
+    else if(windowWidth > 800){
+        imgSrc.attr('src','golf.jpg');
+    }
+});
+    </script>
 
   </body>
 
