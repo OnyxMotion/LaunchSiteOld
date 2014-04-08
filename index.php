@@ -23,7 +23,7 @@
   
     <!-- Full Page Image Header Area -->
     <div id="top" class="header">
-      <img id="backgroundImage" src="~/img/basketball.jpg" alt=""/>
+      <img id="backgroundImage" style="background-image: url('/img/basketball.jpg')" width:"auto;">
       <div class="vert-text">
         <h1>Onyx Motion</h1>
         <h3>Players, meet your coach.</h3>
@@ -177,10 +177,10 @@
     var windowWidth = $(window).width();
     var imgSrc = $('#backgroundImage');
     if(windowWidth <= 800){         
-        imgSrc.attr('src','~/img/basketball.jpg');
+        imgSrc.attr('src',''/img/basketball.jpg');
     }
     else if(windowWidth > 800){
-        imgSrc.attr('src','~/img/golf.jpg');
+        imgSrc.attr('src',''/img/golf.jpg');
     }
 });
     </script>
