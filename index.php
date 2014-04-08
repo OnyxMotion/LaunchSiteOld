@@ -177,10 +177,10 @@
     var windowWidth = $(window).width();
     var imgSrc = $('#backgroundImage');
     if(windowWidth <= 800){         
-        imgSrc.attr('src',''/img/basketball.jpg');
+        imgSrc.attr('src','/img/basketball.jpg');
     }
     else if(windowWidth > 800){
-        imgSrc.attr('src',''/img/golf.jpg');
+        imgSrc.attr('src','/img/golf.jpg');
     }
 });
     </script>
