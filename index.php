@@ -37,7 +37,7 @@
       <div class="container">
         <div class="row">
           <div class="col-md-6 col-md-offset-3 text-center">
-            <h2>Onyx is a wearable device that can help you perfect your shooting technique</h2>
+            <h2 style="font-color:#3a4177;">Onyx is a wearable device that can help you perfect your shooting technique</h2>
           </div>
         </div>
       </div>
@@ -108,7 +108,7 @@
   <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="all-star@onyxmotion.com" required>
     <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
     <div style="position: absolute; left: -5000px;"><input type="text" name="b_1f849069c3254cfa3d6ca050a_fe937a6f51" value=""></div>
-  <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="btn btn btn-primary"></div>
+  <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="btn btn-default btn-primary"></div>
 </form> <!-- end form -->
 </div> <!-- end signup form -->
 </div> <!-- end column -->
