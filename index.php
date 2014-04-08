@@ -37,7 +37,7 @@
       <div class="container">
         <div class="row">
           <div class="col-md-6 col-md-offset-3 text-center">
-            <h2 style="font-color:#3a4177;">Onyx is a wearable device that can help you perfect your shooting technique</h2>
+            <h2 style="color:#3a4177;">Onyx is a wearable device that can help you perfect your shooting technique</h2>
           </div>
         </div>
       </div>
